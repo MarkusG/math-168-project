@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2pxv5R8euhC8iGpbn5wTzBF/1fsh7BbqetHEj1e6ethAn51oE+Y5NwDoa3Mn1MioR4yAWiGJJeZzBU74dzk4Ow==",
+  "success": true,
+  "projectFilePath": "/home/mark/school/math168/project/mbta_data/TripUpdateParser/TripUpdateParser.csproj",
+  "expectedPackageFiles": [
+    "/home/mark/.nuget/packages/csvhelper/30.0.1/csvhelper.30.0.1.nupkg.sha512",
+    "/home/mark/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

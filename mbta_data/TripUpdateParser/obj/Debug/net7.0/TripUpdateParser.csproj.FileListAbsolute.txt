@@ -1,0 +1,11 @@
+/home/mark/rudy/documents/school/ucla_fal23/math168/project/mbta_data/TripUpdateParser/bin/Debug/net7.0/TripUpdateParser
+/home/mark/rudy/documents/school/ucla_fal23/math168/project/mbta_data/TripUpdateParser/bin/Debug/net7.0/TripUpdateParser.dll
+/home/mark/rudy/documents/school/ucla_fal23/math168/project/mbta_data/TripUpdateParser/bin/Debug/net7.0/TripUpdateParser.pdb
+/home/mark/rudy/documents/school/ucla_fal23/math168/project/mbta_data/TripUpdateParser/obj/Debug/net7.0/TripUpdateParser.csproj.AssemblyReference.cache
+/home/mark/rudy/documents/school/ucla_fal23/math168/project/mbta_data/TripUpdateParser/obj/Debug/net7.0/TripUpdateParser.GeneratedMSBuildEditorConfig.editorconfig
+/home/mark/rudy/documents/school/ucla_fal23/math168/project/mbta_data/TripUpdateParser/obj/Debug/net7.0/TripUpdateParser.AssemblyInfoInputs.cache
+/home/mark/rudy/documents/school/ucla_fal23/math168/project/mbta_data/TripUpdateParser/obj/Debug/net7.0/TripUpdateParser.AssemblyInfo.cs
+/home/mark/rudy/documents/school/ucla_fal23/math168/project/mbta_data/TripUpdateParser/obj/Debug/net7.0/TripUpdateParser.csproj.CoreCompileInputs.cache
+/home/mark/rudy/documents/school/ucla_fal23/math168/project/mbta_data/TripUpdateParser/obj/Debug/net7.0/TripUpdateParser.dll
+/home/mark/rudy/documents/school/ucla_fal23/math168/project/mbta_data/TripUpdateParser/obj/Debug/net7.0/refint/TripUpdateParser.dll
+/home/mark/rudy/documents/school/ucla_fal23/math168/project/mbta_data/TripUpdateParser/obj/Debug/net7.0/TripUpdateParser.pdb
