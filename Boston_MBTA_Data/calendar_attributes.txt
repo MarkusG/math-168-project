@@ -1,0 +1,89 @@
+service_id,service_description,service_schedule_name,service_schedule_type,service_schedule_typicality,rating_start_date,rating_end_date,rating_description
+BUS42023-hbs43sf1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20230827,20231216,Fall
+BUS42023-hbs43sn1-Weekday-02,Weekday schedule (no school),Weekday (no school),Weekday,1,20230827,20231216,Fall
+BUS42023-hbs43sp1-Weekday-02,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20230827,20231216,Fall
+BUS42023-hbs43sp6-Saturday-02,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
+BUS42023-hbs43sp7-Sunday-02,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
+BUS42023-hbs43sw1-Weekday-02,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
+BUS42023-hbs43sw6-Saturday-02,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
+BUS42023-hbs43sw7-Sunday-02,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
+Boat-EastBoston-Saturday-Fall-23,Saturday schedule,Saturday,Saturday,1,20231010,,Fall
+Boat-EastBoston-Sunday-Fall-23,Sunday schedule,Sunday,Sunday,1,20231010,,Fall
+Boat-EastBoston-Weekday-Fall-23,Weekday schedule,Weekday,Weekday,1,20231010,,Fall
+Boat-F1-Weekday-Fall-23,Weekday schedule,Weekday,Weekday,1,20231010,,Fall
+Boat-F4-Saturday-Fall-23,Saturday schedule,Saturday,Saturday,1,20231010,,Fall
+Boat-F4-Sunday-Fall-23,Sunday schedule,Sunday,Sunday,1,20231010,,Fall
+Boat-F4-Weekday-Fall-23,Weekday schedule,Weekday,Weekday,1,20231010,,Fall
+Boat-F6-Weekday-Fall-23,Weekday schedule,Weekday,Weekday,1,20231010,,Fall
+CR-Haverhill-OakGroveReadingFall-Std,Saturday schedule,Saturday,Saturday,4,20231002,20231216,Fall/Winter
+CR-Haverhill-OakGroveReadingFall-Sunday,Sunday schedule,Sunday,Sunday,4,20231002,20231216,Fall/Winter
+CR-Haverhill-ReadingWoburnFall-Saturday,Saturday schedule,Saturday,Saturday,4,20231002,20231216,Fall/Winter
+CR-Haverhill-ReadingWoburnFall-Sunday,Sunday schedule,Sunday,Sunday,4,20231002,20231216,Fall/Winter
+CR-Newburyport-LynnShttlFall-StdNv,Saturday schedule,Saturday,Saturday,4,20231002,20231216,Fall/Winter
+CR-Newburyport-LynnShttlFall-SundayNov,Sunday schedule,Sunday,Sunday,4,20231002,20231216,Fall/Winter
+CR-Newburyport-LynnShttlFall-WeekdayNov,Weekday schedule,Weekday,Weekday,4,20231002,20231216,Fall/Winter
+FALL 2023-N-Sa-5-S6561ad1d-HvrWbnRdgDn,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20231002,,Fall/Winter
+FALL 2023-N-Su-5-S6561ad1d-HvrWbnRdgDn,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20231002,,Fall/Winter
+FALL 2023-N-Wdy-5-S6561ad1d-HvrWbnRdgDn,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20231002,,Fall/Winter
+FALL 2023-NORTHSAT-Saturday-1-S6561ad1d,Saturday schedule,Saturday,Saturday,1,20231002,,Fall/Winter
+FALL 2023-NORTHSUN-Sunday-1,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
+FALL 2023-NORTHSUN-Sunday-1-S6561ad1d,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
+FALL 2023-NORTHSUN-Sunday-1-S7d8482ee,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
+FALL 2023-NORTHSUN-Sunday-1-S9d378dcf,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
+FALL 2023-NORTHWKD-Weekday-1,Weekday schedule,Weekday,Weekday,1,20231002,,Fall/Winter
+FALL 2023-NORTHWKD-Weekday-1-S6561ad1d,Weekday schedule,Weekday,Weekday,1,20231002,,Fall/Winter
+FALL 2023-NORTHWKD-Weekday-1-S7d8482ee,Weekday schedule,Weekday,Weekday,1,20231002,,Fall/Winter
+FALL 2023-NORTHWKD-Weekday-1-S9d378dcf,Weekday schedule,Weekday,Weekday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHSAT-Saturday-1-Sb0e4ed14,Saturday schedule,Saturday,Saturday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHSUN-Sunday-1,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHSUN-Sunday-1-S85407dc6,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHSUN-Sunday-1-S859962ef,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHSUN-Sunday-1-Sb0e4ed14,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHSUN-Sunday-1-Sb7371956,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHSUN-Sunday-1-Sc9a3b080,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHSUN-Sunday-1-Scbbf1ea5,Sunday schedule,Sunday,Sunday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHSUN-Sunday-70,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20231002,,Fall/Winter
+FALL 2023-SOUTHWKD-Weekday-1,Weekday schedule,Weekday,Weekday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHWKD-Weekday-1-S85407dc6,Weekday schedule,Weekday,Weekday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHWKD-Weekday-1-S859962ef,Weekday schedule,Weekday,Weekday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHWKD-Weekday-1-Sb0e4ed14,Weekday schedule,Weekday,Weekday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHWKD-Weekday-1-Sb7371956,Weekday schedule,Weekday,Weekday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHWKD-Weekday-1-Sc9a3b080,Weekday schedule,Weekday,Weekday,1,20231002,,Fall/Winter
+FALL 2023-SOUTHWKD-Weekday-1-Scbbf1ea5,Weekday schedule,Weekday,Weekday,1,20231002,,Fall/Winter
+FLL 23-S-Sa-1-Sb0e4ed14-AshCldFrmShlDn,Saturday schedule,Saturday,Saturday,4,20231002,,Fall/Winter
+FLL 23-S-Su-1-Sb0e4ed14-AshCldFrmShlDn,Sunday schedule,Sunday,Sunday,4,20231002,,Fall/Winter
+FLL 23-S-Wdy-1-Sb0e4ed14-AshCldFrmShlDn,Weekday schedule,Weekday,Weekday,4,20231002,,Fall/Winter
+Fall/WinterSaturday,Saturday schedule,Saturday,Saturday,1,20231002,,Fall/Winter
+Fall/WinterWeekday,Weekday schedule,Weekday,Weekday,4,20231002,20231216,Fall/Winter
+FallSaturday,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
+FallSunday,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
+FallWeekday,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
+LRV42023-hlb43011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
+LRV42023-hlm43011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
+PRIV42023-hpa43011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
+PRIV42023-hpj43011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
+PRIV42023-hpj43017-Sunday-01,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
+RTL42023-hmb43011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
+RTL42023-hmo43011-Weekday-01,Weekday schedule,Weekday,Weekday,1,20230827,20231216,Fall
+RTL42023-hmo43016-Saturday-01,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
+RTL42023-hmo43017-Sunday-01,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
+RTL42023-hmo43ng1-Wdy-01-NStOkGrExd,Weekday schedule (modified service),Weekday (modified service),Weekday,4,20230827,20231216,Fall
+RTL42023-hmo43ng6-Sa-01-NStOkGrExd,Saturday schedule (modified service),Saturday (modified service),Saturday,4,20230827,20231216,Fall
+RTL42023-hmo43ng7-Sunday-01-NStOkGrExd,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20230827,20231216,Fall
+RTL42023-hmo43ow7-Su-01-OkGrvWln,Sunday schedule (modified service),Sunday (modified service),Sunday,4,20230827,20231216,Fall
+RTL42023-hms43sp1-Weekday-01,Weekday schedule (reduced service),Weekday (reduced service),Weekday,5,20230827,20231216,Fall
+RTL42023-hms43sp6-Saturday-01,Saturday schedule,Saturday,Saturday,1,20230827,20231216,Fall
+RTL42023-hms43sp6-Saturday-01-AlfKnlSsd,Saturday schedule,Saturday,Saturday,4,20230827,20231216,Fall
+RTL42023-hms43sp7-Sunday-01,Sunday schedule,Sunday,Sunday,1,20230827,20231216,Fall
+RTL42023-hms43sp7-Sunday-01-AlfKnlSsd,Sunday schedule,Sunday,Sunday,4,20230827,20231216,Fall
+RTL423-hms43sp1-Wdy-01-c6216a41,Weekday schedule (reduced service),Weekday (reduced service),Weekday,4,20230827,20231216,Fall
+RTL423-hms43sp6-Sa-01-c6216a41,Saturday schedule,Saturday,Saturday,4,20230827,20231216,Fall
+RTL423-hms43sp7-Su-01-c6216a41,Sunday schedule,Sunday,Sunday,4,20230827,20231216,Fall
+Red-FallAlewifeKendall-Saturday,Saturday schedule (Track maintenance),Saturday (Track maintenance),Saturday,4,20230827,20231216,Fall
+Red-FallAlewifeKendall-Sunday,Sunday schedule (Track maintenance),Sunday (Track maintenance),Sunday,4,20230827,20231216,Fall
+Red-FallJFKPark-Saturday,Saturday schedule (Rail and tie replacement work),Saturday (Rail and tie replacement work),Saturday,4,20230827,20231216,Fall
+Red-FallJFKPark-Sunday,Sunday schedule (Rail and tie replacement work),Sunday (Rail and tie replacement work),Sunday,4,20230827,20231216,Fall
+Red-FallJFKPark-Weekday,Weekday schedule (Rail and tie replacement work),Weekday (Rail and tie replacement work),Weekday,4,20230827,20231216,Fall
+ThanksgivingDay,Holiday (Sunday schedule),Holiday,Sunday,3,20230827,20231216,Fall
+VeteransDay(Observed)-DfrThgD,Weekday schedule (no school),Weekday (no school),Weekday,1,20230827,20231216,Fall
+canonical,Canonical reference trips only,Canonical reference trips,Other,6,20220313,,Reference
