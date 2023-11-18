@@ -17,12 +17,13 @@ foreach (var e in updates!.entity.Where(e => e.trip_update.stop_time_update is n
         epoch = epoch.AddHours(19);
         DateTime? arrivalTimestamp = u.arrival is null ? null : epoch.AddSeconds(u.arrival.time);
         DateTime? departureTimestamp = u.departure is null ? null : epoch.AddSeconds(u.departure.time);
+        int? arrivalSeconds = arrivalTimestamp is null ? null : (int)Math.Floor(arrivalTimestamp!.Value.TimeOfDay.TotalSeconds);
+        int? departureSeconds = departureTimestamp is null ? null : (int)Math.Floor(departureTimestamp!.Value.TimeOfDay.TotalSeconds);
         var update = new OutputRecord(
             e.trip_update.trip.trip_id,
             u.stop_id,
-            u.stop_sequence,
-            arrivalTimestamp?.ToString("HH:mm:ss"),
-            departureTimestamp?.ToString("HH:mm:ss"));
+            arrivalSeconds,
+            departureSeconds);
         output.Add(update);
     }
 }
