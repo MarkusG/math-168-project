@@ -15,17 +15,25 @@ csvr.ReadHeader();
 while (csvr.Read())
 {
     var stopTime = csvr.GetRecord<StopTime>()!;
+    
     var arrivalComponents = stopTime.ArrivalTime!.Split(":");
-    var hours = int.Parse(arrivalComponents[0]);
-    var minutes = int.Parse(arrivalComponents[1]);
-    var seconds = int.Parse(arrivalComponents[2]);
-    var secondsSinceMidnight = 3600 * hours + 60 * minutes + seconds;
+    var arrivalHours = int.Parse(arrivalComponents[0]);
+    var arrivalMinutes = int.Parse(arrivalComponents[1]);
+    var arrivalSeconds = int.Parse(arrivalComponents[2]);
+    var arrivalSecondsSinceMidnight = 3600 * arrivalHours + 60 * arrivalMinutes + arrivalSeconds;
+    
+    var departureComponents = stopTime.DepartureTime!.Split(":");
+    var departureHours = int.Parse(departureComponents[0]);
+    var departureMinutes = int.Parse(departureComponents[1]);
+    var departureSeconds = int.Parse(departureComponents[2]);
+    var departureSecondsSinceMidnight = 3600 * departureHours + 60 * departureMinutes + departureSeconds;
     
     csvw.WriteRecord(new CleanStopTime
     {
         TripId = stopTime.TripId,
         StopId = stopTime.StopId,
-        ArrivalTime = secondsSinceMidnight
+        ArrivalTime = arrivalSecondsSinceMidnight,
+        DepartureTime = departureSecondsSinceMidnight
     });
     csvw.NextRecord();
 }

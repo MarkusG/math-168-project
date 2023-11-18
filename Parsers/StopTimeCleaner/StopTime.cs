@@ -12,4 +12,7 @@ public class StopTime
     
     [Name("arrival_time")]
     public string? ArrivalTime { get; set; }
+    
+    [Name("departure_time")]
+    public string? DepartureTime { get; set; }
 }

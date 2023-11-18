@@ -12,4 +12,7 @@ public class CleanStopTime
     
     [Name("arrival_time")]
     public int ArrivalTime { get; set; }
+    
+    [Name("departure_time")]
+    public int DepartureTime { get; set; }
 }
