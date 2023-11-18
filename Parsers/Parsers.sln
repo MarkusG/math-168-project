@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripUpdateParser", "TripUpdateParser\TripUpdateParser.csproj", "{2F02B788-90D4-44D3-A1A8-E036F06FFD66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopTimeCleaner", "StopTimeCleaner\StopTimeCleaner.csproj", "{34F9AFD3-56E8-47B6-B482-ED08DAF2D7F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F02B788-90D4-44D3-A1A8-E036F06FFD66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F02B788-90D4-44D3-A1A8-E036F06FFD66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F02B788-90D4-44D3-A1A8-E036F06FFD66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F02B788-90D4-44D3-A1A8-E036F06FFD66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34F9AFD3-56E8-47B6-B482-ED08DAF2D7F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F9AFD3-56E8-47B6-B482-ED08DAF2D7F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F9AFD3-56E8-47B6-B482-ED08DAF2D7F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F9AFD3-56E8-47B6-B482-ED08DAF2D7F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
