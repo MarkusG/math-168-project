@@ -1,13 +1,13 @@
 Medford/Tufts
-Ball Sq
-Gilman Sq
+Ball Square
+Gilman Square
 East Somerville
 Lechmere
 Science Park/West End
 North Station
 Haymarket
 Gov't Center
-Park St
+Park Street
 Boylston
 Arlington
 Copley
@@ -17,8 +17,8 @@ Northeastern
 Museum of Fine Arts
 Longwood Medical Area
 Brigham Circle
-Fenwood Rd
+Fenwood Road
 Mission Park
 Riverway
 Back of the Hill
-Heath St
+Heath Street
