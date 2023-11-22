@@ -8,5 +8,5 @@ Airport
 Maverick
 Aquarium
 State
-Gov't Center
+Government Center
 Bowdoin
