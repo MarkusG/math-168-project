@@ -6,7 +6,7 @@
 .import ../Boston_MBTA_Data/routes.txt routes
 .import ../Boston_MBTA_Data/stops.txt stops
 
-select s.stop_name,delays.avg_delay from delays
+select distinct s.stop_name,delays.avg_delay from delays
 inner join stop_times st on st.stop_id = delays.stop_id
 inner join trips t on t.trip_id = st.trip_id
 inner join routes r on r.route_id = t.route_id
