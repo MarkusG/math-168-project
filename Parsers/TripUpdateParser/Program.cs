@@ -3,7 +3,7 @@ using System.Text.Json;
 using ConsoleApp1;
 using CsvHelper;
 
-var data = File.ReadAllText("/home/mark/school/math168/project/delay_data/trip_updates.json");
+var data = File.ReadAllText("/home/mark/school/math168/project/Delay_Data/trip_updates.json");
 var updates = JsonSerializer.Deserialize<RootObject>(data);
 
 var output = new List<OutputRecord>();
@@ -28,6 +28,6 @@ foreach (var e in updates!.entity.Where(e => e.trip_update.stop_time_update is n
     }
 }
 
-using var sw = new StreamWriter("/home/mark/school/math168/project/delay_data/stop_time_updates.csv");
+using var sw = new StreamWriter("/home/mark/school/math168/project/Delay_Data/stop_time_updates.csv");
 using var csvw = new CsvWriter(sw, CultureInfo.InvariantCulture);
 csvw.WriteRecords(output);

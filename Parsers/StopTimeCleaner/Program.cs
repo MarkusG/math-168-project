@@ -2,10 +2,10 @@
 using CsvHelper;
 using StopTimeCleaner;
 
-using var reader = new StreamReader("/home/mark/school/math168/project/Boston_MBTA_Data/stop_times.txt");
+using var reader = new StreamReader("/home/mark/school/math168/project/GTFS_Static/stop_times.txt");
 using var csvr = new CsvReader(reader, CultureInfo.InvariantCulture);
 
-using var output = File.OpenWrite("/home/mark/school/math168/project/delay_data/stop_times_clean.csv");
+using var output = File.OpenWrite("/home/mark/school/math168/project/Delay_Data/stop_times_clean.csv");
 using var writer = new StreamWriter(output);
 using var csvw = new CsvWriter(writer, CultureInfo.InvariantCulture);
 csvw.WriteHeader<CleanStopTime>();

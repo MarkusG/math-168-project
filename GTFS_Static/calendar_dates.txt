@@ -1,0 +1,65 @@
+service_id,date,exception_type,holiday_name
+RTL42023-hmo43011-Weekday-01,20231102,1,
+RTL42023-hmo43011-Weekday-01,20231103,1,
+RTL42023-hmo43011-Weekday-01,20231106,1,
+BUS42023-hbs43sn1-Weekday-02,20231110,1,Veterans Day (Observed)
+BUS42023-hbs43sw1-Weekday-02,20231110,2,Veterans Day (Observed)
+FallWeekday,20231110,2,Veterans Day (Observed)
+VeteransDay(Observed)-DfrThgD,20231110,1,Veterans Day (Observed)
+RTL42023-hmo43016-Saturday-01,20231111,2,
+RTL42023-hms43sp1-Weekday-01,20231114,2,
+RTL42023-hms43sp1-Weekday-01,20231115,2,
+RTL42023-hms43sp1-Weekday-01,20231116,2,
+BUS42023-hbs43sw6-Saturday-02,20231118,2,
+RTL42023-hms43sp6-Saturday-01,20231118,2,
+RTL42023-hms43sp7-Sunday-01,20231119,2,
+BUS42023-hbs43sw1-Weekday-02,20231120,2,
+BUS42023-hbs43sw1-Weekday-02,20231121,2,
+BUS42023-hbs43sw1-Weekday-02,20231122,2,
+BUS42023-hbs43sw1-Weekday-02,20231123,2,Thanksgiving Day
+Boat-EastBoston-Weekday-Fall-23,20231123,2,Thanksgiving Day
+Boat-F1-Weekday-Fall-23,20231123,2,Thanksgiving Day
+Boat-F4-Weekday-Fall-23,20231123,2,Thanksgiving Day
+Boat-F6-Weekday-Fall-23,20231123,2,Thanksgiving Day
+CR-Newburyport-LynnShttlFall-SundayNov,20231123,1,Thanksgiving Day
+CR-Newburyport-LynnShttlFall-WeekdayNov,20231123,2,Thanksgiving Day
+FALL 2023-NORTHSUN-Sunday-1,20231123,1,Thanksgiving Day
+FALL 2023-NORTHSUN-Sunday-1-S6561ad1d,20231123,1,Thanksgiving Day
+FALL 2023-NORTHSUN-Sunday-1-S7d8482ee,20231123,1,Thanksgiving Day
+FALL 2023-NORTHSUN-Sunday-1-S9d378dcf,20231123,1,Thanksgiving Day
+FALL 2023-NORTHWKD-Weekday-1,20231123,2,Thanksgiving Day
+FALL 2023-NORTHWKD-Weekday-1-S6561ad1d,20231123,2,Thanksgiving Day
+FALL 2023-NORTHWKD-Weekday-1-S7d8482ee,20231123,2,Thanksgiving Day
+FALL 2023-NORTHWKD-Weekday-1-S9d378dcf,20231123,2,Thanksgiving Day
+FALL 2023-SOUTHSUN-Sunday-1,20231123,1,Thanksgiving Day
+FALL 2023-SOUTHSUN-Sunday-1-S85407dc6,20231123,1,Thanksgiving Day
+FALL 2023-SOUTHSUN-Sunday-1-S859962ef,20231123,1,Thanksgiving Day
+FALL 2023-SOUTHSUN-Sunday-1-Sb7371956,20231123,1,Thanksgiving Day
+FALL 2023-SOUTHSUN-Sunday-1-Sc9a3b080,20231123,1,Thanksgiving Day
+FALL 2023-SOUTHSUN-Sunday-1-Scbbf1ea5,20231123,1,Thanksgiving Day
+FALL 2023-SOUTHWKD-Weekday-1,20231123,2,Thanksgiving Day
+FALL 2023-SOUTHWKD-Weekday-1-S85407dc6,20231123,2,Thanksgiving Day
+FALL 2023-SOUTHWKD-Weekday-1-S859962ef,20231123,2,Thanksgiving Day
+FALL 2023-SOUTHWKD-Weekday-1-Sb7371956,20231123,2,Thanksgiving Day
+FALL 2023-SOUTHWKD-Weekday-1-Sc9a3b080,20231123,2,Thanksgiving Day
+FALL 2023-SOUTHWKD-Weekday-1-Scbbf1ea5,20231123,2,Thanksgiving Day
+FLL 23-S-Su-1-Sb0e4ed14-AshCldFrmShlDn,20231123,1,Thanksgiving Day
+FLL 23-S-Wdy-1-Sb0e4ed14-AshCldFrmShlDn,20231123,2,Thanksgiving Day
+FallWeekday,20231123,2,Thanksgiving Day
+LRV42023-hlb43011-Weekday-01,20231123,2,Thanksgiving Day
+LRV42023-hlm43011-Weekday-01,20231123,2,Thanksgiving Day
+PRIV42023-hpa43011-Weekday-01,20231123,2,Thanksgiving Day
+PRIV42023-hpj43011-Weekday-01,20231123,2,Thanksgiving Day
+PRIV42023-hpj43017-Sunday-01,20231123,1,Thanksgiving Day
+RTL42023-hmb43011-Weekday-01,20231123,2,Thanksgiving Day
+RTL42023-hmo43011-Weekday-01,20231123,2,Thanksgiving Day
+RTL42023-hms43sp1-Weekday-01,20231123,2,Thanksgiving Day
+ThanksgivingDay,20231123,1,Thanksgiving Day
+BUS42023-hbs43sf1-Weekday-02,20231124,1,Day after Thanksgiving Day
+BUS42023-hbs43sw1-Weekday-02,20231124,2,Day after Thanksgiving Day
+FallWeekday,20231124,2,Day after Thanksgiving Day
+VeteransDay(Observed)-DfrThgD,20231124,1,Day after Thanksgiving Day
+BUS42023-hbs43sw6-Saturday-02,20231125,2,
+BUS42023-hbs43sw7-Sunday-02,20231203,1,
+FALL 2023-SOUTHSUN-Sunday-70,20231203,1,
+BUS42023-hbs43sw7-Sunday-02,20231210,1,
